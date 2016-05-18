@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.pg2016"
+    version   = "1.0.0">
+
+<name>PhoneGap-Lisette</name>
+
+<description>
+Aplicacion que describe el funcionamiento de PhoneGap.
+</description>
+
+<author href="https://example.com" email="you@example.com">
+Lisette Ramírez Zambada
+</author>
+<icon src="images/PhoneGapLogo.png" gap:density="ldpi" gap:platform="android" />
+<icon src="images/PhoneGapLogo.png" gap:density="mdpi" gap:platform="android" />
+<icon src="images/PhoneGapLogo.png" gap:density="hdpi" gap:platform="android" />
+<icon src="images/PhoneGapLogo.png" gap:density="xhdpi" gap:platform="android" />
+</widget>
